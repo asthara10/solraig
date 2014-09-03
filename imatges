@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Solraig imatges</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Júlia Mir">
+        <link rel="stylesheet" type="text/css" href="../css/estils.css" />
+        <script src="../js/jquery-1.11.0.min.js"></script>
+	<script src="../js/lightbox.min.js"></script>
+        <link href="../css/lightbox.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header><h1 id="solraig">Solraig</h1></header>
+        <div id='menu'>
+            <ul>
+                <li><a href="index.html">inici</a></li>
+                <li>galeria d'imatges</li>
+                <li><a href='marca de garantia.html'>marca de garantia</a></li>
+                <li><a href='pesca turisme.html'>pescaturisme</a></li>
+            </ul>
+        </div>
+        <a href="../imatges/galeria/1.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig"><img class="galeria" src="../imatges/galeria/1.jpg" alt="" /></a>
+        <a href="../imatges/galeria/2.jpg" data-lightbox="1" rel="lightbox" data-title="Sortida del sol a Palamós"><img class="galeria" src="../imatges/galeria/2.jpg" alt="" /></a>
+        <a href="../imatges/galeria/3.jpg" data-lightbox="1" rel="lightbox" data-title="Sortida del sol a Palamós"><img class="galeria" src="../imatges/galeria/3.jpg" alt="" /></a>
+        <a href="../imatges/galeria/4.jpg" data-lightbox="1" rel="lightbox" data-title="Sortida de les barques"><img class="galeria" src="../imatges/galeria/4.jpg" alt="" /></a>
+        <a href="../imatges/galeria/5.jpg" data-lightbox="1" rel="lightbox" data-title="Sortida de les barques"><img class="galeria" src="../imatges/galeria/5.jpg" alt="" /></a>
+        <a href="../imatges/galeria/6.jpg" data-lightbox="1" rel="lightbox" data-title="Sortida del sol"><img class="galeria" src="../imatges/galeria/6.jpg" alt="" /></a>
+        <a href="../imatges/galeria/7.jpg" data-lightbox="1" rel="lightbox" data-title="Sortida de les barques"><img class="galeria" src="../imatges/galeria/7.jpg" alt="" /></a>
+        <a href="../imatges/galeria/8.jpg" data-lightbox="1" rel="lightbox" data-title="Gavines"><img class="galeria" src="../imatges/galeria/8.jpg" alt="" /></a>
+        <a href="../imatges/galeria/9.jpg" data-lightbox="1" rel="lightbox" data-title="Gavines"><img class="galeria" src="../imatges/galeria/9.jpg" alt="" /></a>
+        <a href="../imatges/galeria/10.jpg" data-lightbox="1" rel="lightbox" data-title="Gavines"><img class="galeria" src="../imatges/galeria/10.jpg" alt="" /></a>
+        <a href="../imatges/galeria/11.jpg" data-lightbox="1" rel="lightbox" data-title="Gavines"><img class="galeria" src="../imatges/galeria/11.jpg" alt="" /></a>
+        <a href="../imatges/galeria/12.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig"><img class="galeria" src="../imatges/galeria/12.jpg" alt="" /></a>
+        <a href="../imatges/galeria/13.jpg" data-lightbox="1" rel="lightbox" data-title="Salvavides"><img class="galeria" src="../imatges/galeria/13.jpg" alt="" /></a>
+        <a href="../imatges/galeria/14.jpg" data-lightbox="1" rel="lightbox" data-title="Calant"><img class="galeria" src="../imatges/galeria/14.jpg" alt="" /></a>
+        <a href="../imatges/galeria/15.jpg" data-lightbox="1" rel="lightbox" data-title="Calant"><img class="galeria" src="../imatges/galeria/15.jpg" alt="" /></a>
+        <a href="../imatges/galeria/16.jpg" data-lightbox="1" rel="lightbox" data-title="Calant"><img class="galeria" src="../imatges/galeria/16.jpg" alt="" /></a>
+        <a href="../imatges/galeria/17.jpg" data-lightbox="1" rel="lightbox" data-title="Pont"><img class="galeria" src="../imatges/galeria/17.jpg" alt="" /></a>
+        <a href="../imatges/galeria/18.jpg" data-lightbox="1" rel="lightbox" data-title="Pont"><img class="galeria" src="../imatges/galeria/18.jpg" alt="" /></a>
+        <a href="../imatges/galeria/19.jpg" data-lightbox="1" rel="lightbox" data-title="Pont"><img class="galeria" src="../imatges/galeria/19.jpg" alt="" /></a>
+        <a href="../imatges/galeria/20.jpg" data-lightbox="1" rel="lightbox" data-title="Scanmar"><img class="galeria" src="../imatges/galeria/20.jpg" alt="" /></a>
+        <a href="../imatges/galeria/21.jpg" data-lightbox="1" rel="lightbox" data-title="Pont"><img class="galeria" src="../imatges/galeria/21.jpg" alt="" /></a>
+        <a href="../imatges/galeria/22.jpg" data-lightbox="1" rel="lightbox" data-title="Pesca"><img class="galeria" src="../imatges/galeria/22.jpg" alt="" /></a>
+        <a href="../imatges/galeria/23.jpg" data-lightbox="1" rel="lightbox" data-title="Pesca"><img class="galeria" src="../imatges/galeria/23.jpg" alt="" /></a>
+        <a href="../imatges/galeria/24.jpg" data-lightbox="1" rel="lightbox" data-title="Pesca"><img class="galeria" src="../imatges/galeria/24.jpg" alt="" /></a>
+        <a href="../imatges/galeria/25.jpg" data-lightbox="1" rel="lightbox" data-title="Pesca"><img class="galeria" src="../imatges/galeria/25.jpg" alt="" /></a>
+        <a href="../imatges/galeria/26.jpg" data-lightbox="1" rel="lightbox" data-title="Cubetes"><img class="galeria" src="../imatges/galeria/26.jpg" alt="" /></a>
+        <a href="../imatges/galeria/27.jpg" data-lightbox="1" rel="lightbox" data-title="Escamarlà"><img class="galeria" src="../imatges/galeria/27.jpg" alt="" /></a>
+        <a href="../imatges/galeria/28.jpg" data-lightbox="1" rel="lightbox" data-title="Escamarlà"><img class="galeria" src="../imatges/galeria/28.jpg" alt="" /></a>
+        <a href="../imatges/galeria/29.jpg" data-lightbox="1" rel="lightbox" data-title="Rap"><img class="galeria" src="../imatges/galeria/29.jpg" alt="" /></a>
+        <a href="../imatges/galeria/30.jpg" data-lightbox="1" rel="lightbox" data-title="Cranc"><img class="galeria" src="../imatges/galeria/30.jpg" alt="" /></a>
+        <a href="../imatges/galeria/31.jpg" data-lightbox="1" rel="lightbox" data-title="Sèpia"><img class="galeria" src="../imatges/galeria/31.jpg" alt="" /></a>
+        <a href="../imatges/galeria/32.jpg" data-lightbox="1" rel="lightbox" data-title="Lluç"><img class="galeria" src="../imatges/galeria/32.jpg" alt="" /></a>
+        <a href="../imatges/galeria/33.jpg" data-lightbox="1" rel="lightbox" data-title="Pelaies i polpets"><img class="galeria" src="../imatges/galeria/33.jpg" alt="" /></a>
+        <a href="../imatges/galeria/34.jpg" data-lightbox="1" rel="lightbox" data-title="Roger i pelaies"><img class="galeria" src="../imatges/galeria/34.jpg" alt="" /></a>
+        <a href="../imatges/galeria/35.jpg" data-lightbox="1" rel="lightbox" data-title="Rap"><img class="galeria" src="../imatges/galeria/35.jpg" alt="" /></a>
+        <a href="../imatges/galeria/36.jpg" data-lightbox="1" rel="lightbox" data-title="Papet"><img class="galeria" src="../imatges/galeria/36.jpg" alt="" /></a>
+        <a href="../imatges/galeria/37.jpg" data-lightbox="1" rel="lightbox" data-title="Gall o peix de sant Pere"><img class="galeria" src="../imatges/galeria/37.jpg" alt="" /></a>
+        <a href="../imatges/galeria/38.jpg" data-lightbox="1" rel="lightbox" data-title="Gamba"><img class="galeria" src="../imatges/galeria/38.jpg" alt="" /></a>
+        <a href="../imatges/galeria/39.jpg" data-lightbox="1" rel="lightbox" data-title="Gamba"><img class="galeria" src="../imatges/galeria/39.jpg" alt="" /></a>
+        <a href="../imatges/galeria/40.jpg" data-lightbox="1" rel="lightbox" data-title="Gamba"><img class="galeria" src="../imatges/galeria/40.jpg" alt="" /></a>
+        <a href="../imatges/galeria/41.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig"><img class="galeria" src="../imatges/galeria/41.jpg" alt="" /></a>
+        <a href="../imatges/galeria/42.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig"><img class="galeria" src="../imatges/galeria/42.jpg" alt="" /></a>
+        <a href="../imatges/galeria/43.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig"><img class="galeria" src="../imatges/galeria/43.jpg" alt="" /></a>
+        <a href="../imatges/galeria/44.jpg" data-lightbox="1" rel="lightbox" data-title="Lliteres"><img class="galeria" src="../imatges/galeria/44.jpg" alt="" /></a>
+        <a href="../imatges/galeria/45.jpg" data-lightbox="1" rel="lightbox" data-title="Lliteres"><img class="galeria" src="../imatges/galeria/45.jpg" alt="" /></a>
+        <a href="../imatges/galeria/46.jpg" data-lightbox="1" rel="lightbox" data-title="Lliteres"><img class="galeria" src="../imatges/galeria/46.jpg" alt="" /></a>
+        <a href="../imatges/galeria/47.jpg" data-lightbox="1" rel="lightbox" data-title="Cuina"><img class="galeria" src="../imatges/galeria/47.jpg" alt="" /></a>
+        <a href="../imatges/galeria/48.jpg" data-lightbox="1" rel="lightbox" data-title="Cuina"><img class="galeria" src="../imatges/galeria/48.jpg" alt="" /></a>
+        <a href="../imatges/galeria/49.jpg" data-lightbox="1" rel="lightbox" data-title="Cuina"><img class="galeria" src="../imatges/galeria/49.jpg" alt="" /></a>
+        <a href="../imatges/galeria/50.jpg" data-lightbox="1" rel="lightbox" data-title="Motor"><img class="galeria" src="../imatges/galeria/50.jpg" alt="" /></a>
+        <a href="../imatges/galeria/51.jpg" data-lightbox="1" rel="lightbox" data-title="Motor"><img class="galeria" src="../imatges/galeria/51.jpg" alt="" /></a>
+        <a href="../imatges/galeria/52.jpg" data-lightbox="1" rel="lightbox" data-title="Motor"><img class="galeria" src="../imatges/galeria/52.jpg" alt="" /></a>
+        <a href="../imatges/galeria/53.jpg" data-lightbox="1" rel="lightbox" data-title="Portes"><img class="galeria" src="../imatges/galeria/53.jpg" alt="" /></a>
+        <a href="../imatges/galeria/54.jpg" data-lightbox="1" rel="lightbox" data-title="Coberta"><img class="galeria" src="../imatges/galeria/54.jpg" alt="" /></a>
+        <a href="../imatges/galeria/55.jpg" data-lightbox="1" rel="lightbox" data-title="Posta de sol"><img class="galeria" src="../imatges/galeria/55.jpg" alt="" /></a>
+        <a href="../imatges/galeria/56.jpg" data-lightbox="1" rel="lightbox" data-title="Posta de sol"><img class="galeria" src="../imatges/galeria/56.jpg" alt="" /></a>
+        <a href="../imatges/galeria/57.jpg" data-lightbox="1" rel="lightbox" data-title="Posta de sol a Palamós"><img class="galeria" src="../imatges/galeria/57.jpg" alt="" /></a>
+        <a href="../imatges/galeria/58.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/58.jpg" alt="" /></a>
+        <a href="../imatges/galeria/59.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/59.jpg" alt="" /></a>
+        <a href="../imatges/galeria/60.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/60.jpg" alt="" /></a>
+        <a href="../imatges/galeria/61.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/61.jpg" alt="" /></a>
+        <a href="../imatges/galeria/62.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/62.jpg" alt="" /></a>
+        <a href="../imatges/galeria/63.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/63.jpg" alt="" /></a>
+        <a href="../imatges/galeria/64.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/64.jpg" alt="" /></a>
+        <a href="../imatges/galeria/65.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/65.jpg" alt="" /></a>
+        <a href="../imatges/galeria/66.jpg" data-lightbox="1" rel="lightbox" data-title="Solraig al varador"><img class="galeria" src="../imatges/galeria/66.jpg" alt="" /></a>
+        <footer>Contacte: solraig.cb@gmail.com</footer>
+    </body>
+</html>
